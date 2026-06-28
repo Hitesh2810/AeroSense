@@ -1,4 +1,3 @@
-````markdown
 # ✈️ AeroSense
 ### AI-Powered Predictive Maintenance and Real-Time Telemetry Analysis System for NASA Turbofan Jet Engines Using XGBoost & Explainable AI
 
@@ -523,4 +522,3 @@ npm run dev
 ---
 
 # ⭐ If you found this project useful, don't forget to give it a Star!
-````
