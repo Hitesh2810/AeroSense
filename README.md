@@ -2,7 +2,7 @@
 
 # ✈️ AeroSense
 
-### AI-Powered Predictive Maintenance & Real-Time Telemetry Platform
+### Gen AI-Powered Predictive Maintenance & Real-Time Telemetry Platform
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=1000&lines=Welcome+to+AeroSense!;AI-Powered+Predictive+Maintenance;NASA+Turbofan+Engine+Analytics;XGBoost+%7C+SHAP+Explainable+AI;Real-Time+Telemetry+Monitoring;FastAPI+%7C+React+%7C+WebSockets;Google+Gemini+AI+Assistant;Built+with+❤️+by+Team+22UG011)](https://git.io/typing-svg)
 
